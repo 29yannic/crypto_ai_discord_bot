@@ -1,0 +1,6 @@
+ccxt
+pandas
+discord.py
+python-dotenv
+openai
+pandas-ta
